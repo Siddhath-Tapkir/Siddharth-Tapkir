@@ -1,6 +1,6 @@
 # Siddharth-Tapkir
-💻 Passionate System Programmer and Full-Stack Developer. 
-🔧 Exploring Linux internals, OS concepts, and low-level design. 
+💻 Passionate System Programmer and Full-Stack Developer.  
+🔧 Exploring Linux internals, OS concepts, and low-level design.  
 🚀 Focused on writing efficient, reliable, and performance-oriented code.
 
 <div align="center">
@@ -59,6 +59,8 @@
 
 ### ⚙️ System & OS Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows NT](https://img.shields.io/badge/Windows%20NT-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Win32 SDK](https://img.shields.io/badge/Win32%20SDK-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-FAFAFA?style=for-the-badge&logo=gnu&logoColor=black)
 
@@ -70,16 +72,5 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharthtapkir&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthtapkir&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## ⚡ Motto
-**“Code close to the system, think beyond the limits.”** ⚙️🔥
+**Programming is true beauty, you just need to recognise it!** ⚙️🔥
