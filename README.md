@@ -1,7 +1,7 @@
-# Siddharth-Tapkir
-💻 Passionate System Programmer and Full-Stack Developer.  
-🔧 Exploring Linux internals, OS concepts, and low-level design.  
-🚀 Focused on writing efficient, reliable, and performance-oriented code.
+# Siddharth-Tapkir  
+💻 Passionate **System Programmer**, **Object-Oriented Programmer**, and **Full-Stack Developer**.  
+🔧 Exploring **Linux internals**, **Operating System concepts**, and **low-level design**.  
+🚀 Focused on writing **efficient, reliable, and performance-oriented code**.
 
 <div align="center">
 
@@ -17,9 +17,8 @@
 
   <!-- Social Icons -->
   <p>
-    <a href="https://github.com/siddharthtapkir"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-    <a href="https://www.linkedin.com/in/siddharth-tapkir"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-    <a href="mailto:siddharthtapkir@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+    <a href="https://github.com/Siddhath-Tapkir"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+    <a href="mailto:siddharthtapkir1@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
   </p>
 
 </div>
@@ -43,18 +42,24 @@
 ![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Tools & IDEs
+### 🧩 IDEs
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Sublime](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+
+### 🛠️ Build & Dependency Tools
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-CA0C0C?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Web & Servers
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 ### ⚙️ System & OS Tools
@@ -63,6 +68,7 @@
 ![Win32 SDK](https://img.shields.io/badge/Win32%20SDK-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-FAFAFA?style=for-the-badge&logo=gnu&logoColor=black)
+![G++](https://img.shields.io/badge/G++-00599C?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
